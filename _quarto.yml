@@ -1,0 +1,8 @@
+project: 
+  type: website
+
+website:
+  sidebar: 
+    logo: quarto.png
+    contents:
+      - index.qmd
