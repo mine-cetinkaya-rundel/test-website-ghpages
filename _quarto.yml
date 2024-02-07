@@ -3,6 +3,6 @@ project:
 
 website:
   sidebar: 
-    logo: quarto.png
+    logo: images/quarto.png
     contents:
       - index.qmd
